@@ -4,7 +4,7 @@ export default function BeforeAfterSection() {
   return (
     <section style={{ paddingTop: "1.5rem", textAlign: "center" }}>
       <h2 style={{ fontSize: "1.5rem", marginBottom: "1rem" }}>
-        Before & After
+        Comming soon before and after: These are temporary pictures
       </h2>
 
       <div
