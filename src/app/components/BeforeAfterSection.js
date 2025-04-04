@@ -4,9 +4,9 @@ export default function BeforeAfterSection() {
   return (
     <section style={{ paddingTop: "1.5rem", textAlign: "center" }}>
       <h2 style={{ fontSize: "1.5rem", marginBottom: "1rem" }}>
-        Comming soon before and after: These are temporary pictures
+        Before and after - Comming soon
       </h2>
-
+      {/* 
       <div
         style={{
           display: "flex",
@@ -14,7 +14,6 @@ export default function BeforeAfterSection() {
           alignItems: "center",
         }}
       >
-        {/* First comparison */}
         <div
           style={{
             width: "100%",
@@ -31,7 +30,6 @@ export default function BeforeAfterSection() {
           <p style={{ marginTop: "0.5rem" }}>Interior deep clean</p>
         </div>
 
-        {/* Second comparison */}
         <div
           style={{
             width: "100%",
@@ -47,7 +45,7 @@ export default function BeforeAfterSection() {
           />
           <p style={{ marginTop: "0.5rem" }}>Exterior polish and shine</p>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
