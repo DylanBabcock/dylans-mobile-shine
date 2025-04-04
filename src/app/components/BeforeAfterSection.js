@@ -6,7 +6,7 @@ export default function BeforeAfterSection() {
       <h2 style={{ fontSize: "1.5rem", marginBottom: "1rem" }}>
         Before and after - Comming soon
       </h2>
-      {/* 
+
       <div
         style={{
           display: "flex",
@@ -22,12 +22,12 @@ export default function BeforeAfterSection() {
           }}
         >
           <ReactCompareImage
-            leftImage="/tempbefore.PNG"
-            rightImage="/tempafter.PNG"
+            leftImage="/b4jam.png"
+            rightImage="/afterJam.png"
             alt="Detailing Comparison 1"
             sliderLineColor="#17B0EA"
           />
-          <p style={{ marginTop: "0.5rem" }}>Interior deep clean</p>
+          <p style={{ marginTop: "0.5rem" }}>Stuck on grime</p>
         </div>
 
         <div
@@ -38,14 +38,14 @@ export default function BeforeAfterSection() {
           }}
         >
           <ReactCompareImage
-            leftImage="/tempbefore.PNG"
-            rightImage="/tempafter.PNG"
+            leftImage="/b4mat.png"
+            rightImage="/aftermat.png"
             alt="Detailing Comparison 2"
             sliderLineColor="#17B0EA"
           />
-          <p style={{ marginTop: "0.5rem" }}>Exterior polish and shine</p>
+          <p style={{ marginTop: "0.5rem" }}>Floor mat restoration</p>
         </div>
-      </div> */}
+      </div>
     </section>
   );
 }
