@@ -38,8 +38,8 @@ export default function BeforeAfterSection() {
           }}
         >
           <ReactCompareImage
-            leftImage="/b4mat.png"
-            rightImage="/aftermat.png"
+            leftImage="/beforecarpet.png"
+            rightImage="/aftercarpet.png"
             alt="Detailing Comparison 2"
             sliderLineColor="#17B0EA"
           />
