@@ -82,7 +82,7 @@ export default function LearnMorePage() {
               color: "#1481BA",
             }}
           >
-            Basic Interior & Exterior — $75–$100
+            Basic Interior & Exterior — $85–$100
           </h3>
           <ul
             style={{
@@ -97,7 +97,6 @@ export default function LearnMorePage() {
             <li>Interior vacuum (seats, carpets, trunk)</li>
             <li>Wipe down of dash, console & panels</li>
             <li>Glass cleaned inside & out</li>
-            <li>Air freshener (optional)</li>
           </ul>
         </div>
 
@@ -121,7 +120,7 @@ export default function LearnMorePage() {
               color: "#1481BA",
             }}
           >
-            Deep Clean & Wax — $125–$175
+            Deep Clean — $165–$175
           </h3>
           <ul
             style={{
@@ -133,7 +132,6 @@ export default function LearnMorePage() {
           >
             <li>Everything in the Basic Package</li>
             <li>Clay bar treatment (light contamination)</li>
-            <li>One-step polish to enhance shine</li>
             <li>Spray wax or sealant for protection</li>
             <li>Carpet & seat shampooing (light)</li>
             <li>Deeper interior detailing</li>
@@ -174,6 +172,7 @@ export default function LearnMorePage() {
             <li>Deep carpet extraction & stain removal</li>
             <li>Seat shampooing & conditioning (cloth or leather)</li>
             <li>Engine bay cleaning (on request)</li>
+            <li>Polish to enhance shine</li>
             <li>Trim restoration & detail finishing</li>
             <li>Longer-lasting paint sealant upgrade</li>
           </ul>
